@@ -1,2 +1,5 @@
-# CryptoSmite (this product is currently discontinued, no further support questons will be answerd about it)
-### WE AREN'T LIABLE NOR RESPONSIBLE FOR ANY DAMAGE/ISSUES CAUSED BY THIS EXPLOIT! DO NOT CONTACT US FOR ANY ISSUES CAUSED BY THIS EXPLOIT!
+## HOW TO UNENROLL CHROMEBOOK ON KERNVER 7
+## WHAT YOU WILL NEED: A USB WITH AT LEAST 8 GB OF STORAGE, MrChromebox script, SuzyQable to Disable Write Protection, and an unenrolled device.
+
+## > [!IMPORTANT]
+## > I AM NOT RESPONSIBLE FOR ANY TROUBLE YOU GET IN USING THIS REPOSITORY
