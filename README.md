@@ -1,7 +1,7 @@
 ## HOW TO UNENROLL CHROMEBOOK ON KERNVER 7
 
 > [!NOTE]
-> WHAT YOU WILL NEED: A USB WITH AT LEAST 8 GB OF STORAGE, MrChromebox script, SuzyQable to Disable Write Protection, and an unenrolled Chromebook
+> WHAT YOU WILL NEED: A USB with at least 8 GB of Storage, MrChromebox script, SuzyQable to Disable Write Protection, and an unenrolled Chromebook
 
 > [!WARNING]
 > I AM NOT RESPONSIBLE FOR ANY TROUBLE YOU GET IN USING THIS REPOSITORY
